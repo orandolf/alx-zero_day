@@ -1,1 +1,1 @@
-My first readme
+Akua is beautiful
